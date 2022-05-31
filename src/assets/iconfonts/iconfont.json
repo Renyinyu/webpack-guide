@@ -1,0 +1,44 @@
+{
+  "id": "3435745",
+  "name": "webpack5-learning",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "30019542",
+      "name": "arrow-down",
+      "font_class": "arrow-down",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "30019543",
+      "name": "arrow-right",
+      "font_class": "arrow-right",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "30019548",
+      "name": "bell",
+      "font_class": "bell",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "30019549",
+      "name": "check",
+      "font_class": "check",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "30019552",
+      "name": "circle-check",
+      "font_class": "circle-check",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    }
+  ]
+}
